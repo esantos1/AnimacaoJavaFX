@@ -1,0 +1,12 @@
+#parent{
+    -fx-background-image: url("../images/background.jpg");
+}
+
+#btnFechar{
+    -fx-background-color: transparent;
+    -fx-padding: 5 7 5 7;
+}
+
+#btnFechar:hover{
+    -fx-background-color: #E01123;
+}
